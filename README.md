@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on projects that are involved in ethical hacking in some way.
 - 📫 How to reach me just google me, I am not that hard to find yet.
 
+
+This is a work in progress. Expect updates at the beginning of next year. Happy New Year everyone!
+
 <!---
 rcallaby/rcallaby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
