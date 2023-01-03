@@ -22,6 +22,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcallaby&" alt="rcallaby" /></p>
 
 
+<strong>The Streak App is not working correctly! It should show a 9 day streak!</strong>
+
+
 <!---
 
 - 👋 Hi, I’m Richard Callaby
