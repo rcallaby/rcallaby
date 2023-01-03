@@ -19,10 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rcallaby&show_icons=true&locale=en" alt="rcallaby" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcallaby&" alt="rcallaby" /></p>
-
-
-<strong>The Streak App is not working correctly! It should show a 9 day streak!</strong>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcallaby&" alt="rcallaby" /></p
 
 
 <!---
