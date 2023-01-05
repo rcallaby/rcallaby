@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Richard Callaby</h1>
+<h1 align="center">Hi, I'm Richard Callaby</h1>
 <h3 align="center">A curious security researcher who also writes code.</h3>
 
 - 🌱 I’m currently learning **OSCP, PNTP, eJPT**
