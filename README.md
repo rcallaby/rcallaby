@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rcallaby&&show_icons=true&theme=light"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcallaby&" alt="rcallaby" /></p
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcallaby&" alt="rcallaby" /></p>
 
 
 <!---
