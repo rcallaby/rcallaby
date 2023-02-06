@@ -21,15 +21,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcallaby&" alt="rcallaby" /></p>
 
+### Blog Posts
++ [AWS vs Azure Cloud Certifications](http://www.richardcallaby.com/aws-vs-azure-cloud-certifications-why-choose-one-over-the-other/)
++ [Microsoft AZ-104 Certification](http://www.richardcallaby.com/microsoft-az-104-certification-why-you-should-consider-it/)
++ [Microsoft Azure Certifications - An Overview](http://www.richardcallaby.com/microsoft-azure-certifications-an-overview/)
++ [Tools for Remote Software Workers](http://www.richardcallaby.com/tools-and-technologies-for-remote-software-workers/)
++ [CyberSecurity for Beginners](http://www.richardcallaby.com/cybersecurity-for-beginners-how-to-stay-safe-online/)
 
-<!---
-
-- 👋 Hi, I’m Richard Callaby
-- 👀 I’m interested in so many things but here you will find my code to some of my projects, at least my public projects.
-- 🌱 I’m currently learning ethical hacking, bug bounty, algorithms, and data science and to be honest I am always learning. I recognize I won't know everything but will strive to be 
-- 💞️ I’m looking to collaborate on projects that are involved in ethical hacking in some way.
-- 📫 How to reach me just google me, I am not that hard to find yet.
----!>
 
 <!---
 rcallaby/rcallaby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
