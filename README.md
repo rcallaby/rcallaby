@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Richard Callaby</h1>
 <h3 align="center">A curious security researcher who also writes code.</h3>
 
-- 🌱 I’m currently learning **OSCP, PNTP, eJPT**
+- 🌱 I’m currently learning **OSCP, PNTP, and eJPT**
 
 - 📝 I regularly write articles on [http://www.richardcallaby.com](http://www.richardcallaby.com)
 
-- 📫 How to reach me **rcallaby@gmail.com**
+- 📫 How to reach me **richard@richardcallaby.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
