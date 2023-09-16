@@ -32,9 +32,3 @@
 + [Microsoft Azure Certifications - An Overview](http://www.richardcallaby.com/microsoft-azure-certifications-an-overview/)
 + [Tools for Remote Software Workers](http://www.richardcallaby.com/tools-and-technologies-for-remote-software-workers/)
 + [CyberSecurity for Beginners](http://www.richardcallaby.com/cybersecurity-for-beginners-how-to-stay-safe-online/)
-
-
-<!---
-rcallaby/rcallaby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
