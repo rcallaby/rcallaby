@@ -7,6 +7,8 @@
 
 - 📝 I regularly write articles on **[http://www.richardcallaby.com](http://www.richardcallaby.com)**
 
+- 📝 You can check out my portfolio at: **[http://www.richardcallaby.dev](http://www.richardcallaby.dev)**
+
 - 📝 Be sure to check out my **[YouTube channel](http://www.youtube.com/@richardcallaby)** and **subscribe!**
 
 - 📫 How to reach me **richard@richardcallaby.com**
