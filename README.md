@@ -27,8 +27,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcallaby&" alt="rcallaby" /></p>
 
 ### Blog Posts
-+ [AWS vs Azure Cloud Certifications](http://www.richardcallaby.com/aws-vs-azure-cloud-certifications-why-choose-one-over-the-other/)
-+ [Microsoft AZ-104 Certification](http://www.richardcallaby.com/microsoft-az-104-certification-why-you-should-consider-it/)
-+ [Microsoft Azure Certifications - An Overview](http://www.richardcallaby.com/microsoft-azure-certifications-an-overview/)
-+ [Tools for Remote Software Workers](http://www.richardcallaby.com/tools-and-technologies-for-remote-software-workers/)
-+ [CyberSecurity for Beginners](http://www.richardcallaby.com/cybersecurity-for-beginners-how-to-stay-safe-online/)
+- [Some of the more uncommon or obscure data science algorithms](https://www.richardcallaby.com/some-of-the-more-uncommon-or-obscure-data-science-algorithms/)
+- [Paying for a DDOS Attack? Why you should never consider this as an option](https://www.richardcallaby.com/paying-for-a-ddos-attack-why-you-should-never-consider-this-as-an-option/)
+- [AWS vs Azure Cloud Certifications](http://www.richardcallaby.com/aws-vs-azure-cloud-certifications-why-choose-one-over-the-other/)
+- [Microsoft AZ-104 Certification](http://www.richardcallaby.com/microsoft-az-104-certification-why-you-should-consider-it/)
+- [Microsoft Azure Certifications - An Overview](http://www.richardcallaby.com/microsoft-azure-certifications-an-overview/)
+- [Tools for Remote Software Workers](http://www.richardcallaby.com/tools-and-technologies-for-remote-software-workers/)
+- [CyberSecurity for Beginners](http://www.richardcallaby.com/cybersecurity-for-beginners-how-to-stay-safe-online/)
