@@ -27,6 +27,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcallaby&" alt="rcallaby" /></p>
 
 ### Blog Posts
+- [Potential Security Risks in the new Microsoft Co-Pilot. and how to mitigate them](https://www.richardcallaby.com/potential-security-risks-in-the-new-microsoft-co-pilot-and-how-to-mitigate-them/)
 - [Some of the more uncommon or obscure data science algorithms](https://www.richardcallaby.com/some-of-the-more-uncommon-or-obscure-data-science-algorithms/)
 - [Paying for a DDOS Attack? Why you should never consider this as an option](https://www.richardcallaby.com/paying-for-a-ddos-attack-why-you-should-never-consider-this-as-an-option/)
 - [AWS vs Azure Cloud Certifications](http://www.richardcallaby.com/aws-vs-azure-cloud-certifications-why-choose-one-over-the-other/)
