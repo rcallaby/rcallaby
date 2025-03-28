@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Richard Callaby</h1>
 <h3 align="center">A curious security researcher who also writes code.</h3>
 
-- 🌱 I’m currently learning **OSCP, PJTP, PNTP, and eJPT**
+- 🌱 I’m currently learning **Various Ethical Hacking Techniques**
   
 - 🌱 As well, I have discovered an interest in Computer Forensics
-
-- 🌱 I'm also preparing for multiple certifications such as **Security+, Network+, and other Microsoft Azure Certifications**
 
 - 📝 I regularly write articles on **[http://www.richardcallaby.com](http://www.richardcallaby.com)**
 
