@@ -27,11 +27,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcallaby&" alt="rcallaby" /></p>
 
 ### Blog Posts
+- [So you want to build an A.I. agent?](https://www.richardcallaby.com/so-you-wanna-build-an-a-i-agent-heres-how-to-actually-get-started/)
+- [Does A.I. help or slow down developers?](https://www.richardcallaby.com/does-a-i-help-or-slow-down-developers/)
 - [Potential Security Risks in the new Microsoft Co-Pilot. and how to mitigate them](https://www.richardcallaby.com/potential-security-risks-in-the-new-microsoft-co-pilot-and-how-to-mitigate-them/)
 - [Some of the more uncommon or obscure data science algorithms](https://www.richardcallaby.com/some-of-the-more-uncommon-or-obscure-data-science-algorithms/)
 - [Paying for a DDOS Attack? Why you should never consider this as an option](https://www.richardcallaby.com/paying-for-a-ddos-attack-why-you-should-never-consider-this-as-an-option/)
-- [AWS vs Azure Cloud Certifications](http://www.richardcallaby.com/aws-vs-azure-cloud-certifications-why-choose-one-over-the-other/)
-- [Microsoft AZ-104 Certification](http://www.richardcallaby.com/microsoft-az-104-certification-why-you-should-consider-it/)
-- [Microsoft Azure Certifications - An Overview](http://www.richardcallaby.com/microsoft-azure-certifications-an-overview/)
-- [Tools for Remote Software Workers](http://www.richardcallaby.com/tools-and-technologies-for-remote-software-workers/)
-- [CyberSecurity for Beginners](http://www.richardcallaby.com/cybersecurity-for-beginners-how-to-stay-safe-online/)
+- [AWS vs Azure Cloud Certifications](https://www.richardcallaby.com/aws-vs-azure-cloud-certifications-why-choose-one-over-the-other/)
+- [Microsoft AZ-104 Certification](https://www.richardcallaby.com/microsoft-az-104-certification-why-you-should-consider-it/)
+- [Microsoft Azure Certifications - An Overview](https://www.richardcallaby.com/microsoft-azure-certifications-an-overview/)
+- [Tools for Remote Software Workers](https://www.richardcallaby.com/tools-and-technologies-for-remote-software-workers/)
+- [CyberSecurity for Beginners](https://www.richardcallaby.com/cybersecurity-for-beginners-how-to-stay-safe-online/)
