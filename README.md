@@ -26,6 +26,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcallaby&" alt="rcallaby" /></p>
 
+
+[![Richard Callaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcallaby)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Blog Posts
 - [So you want to build an A.I. agent?](https://www.richardcallaby.com/so-you-wanna-build-an-a-i-agent-heres-how-to-actually-get-started/)
 - [Does A.I. help or slow down developers?](https://www.richardcallaby.com/does-a-i-help-or-slow-down-developers/)
