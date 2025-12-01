@@ -30,6 +30,8 @@
 [![Richard Callaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcallaby)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Blog Posts
+- [The Minnesota Model - What the digital fair repair act means for your home security](https://www.richardcallaby.com/the-minnesota-model-what-the-digital-fair-repair-act-means-for-your-home-network-security/)
+- [Zero Trust 101: Why Trust No One is the Only Cloud Strategy for 2025 and beyond](https://www.richardcallaby.com/zero-trust-101-why-trust-no-one-is-the-only-cloud-security-strategy-for-2025-and-beyond/)
 - [So you want to build an A.I. agent?](https://www.richardcallaby.com/so-you-wanna-build-an-a-i-agent-heres-how-to-actually-get-started/)
 - [Does A.I. help or slow down developers?](https://www.richardcallaby.com/does-a-i-help-or-slow-down-developers/)
 - [Potential Security Risks in the new Microsoft Co-Pilot. and how to mitigate them](https://www.richardcallaby.com/potential-security-risks-in-the-new-microsoft-co-pilot-and-how-to-mitigate-them/)
