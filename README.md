@@ -27,7 +27,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcallaby&" alt="rcallaby" /></p>
 
 
-[![Richard Callaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcallaby)](https://github.com/anuraghazra/github-readme-stats)
+[![Richard Callaby's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rcallaby?cardType=level&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 ### Blog Posts
 - [The Minnesota Model - What the digital fair repair act means for your home security](https://www.richardcallaby.com/the-minnesota-model-what-the-digital-fair-repair-act-means-for-your-home-network-security/)
