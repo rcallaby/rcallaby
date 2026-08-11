@@ -40,3 +40,15 @@
 - [Microsoft Azure Certifications - An Overview](https://www.richardcallaby.com/microsoft-azure-certifications-an-overview/)
 - [Tools for Remote Software Workers](https://www.richardcallaby.com/tools-and-technologies-for-remote-software-workers/)
 - [CyberSecurity for Beginners](https://www.richardcallaby.com/cybersecurity-for-beginners-how-to-stay-safe-online/)
+
+#### Support My Open Source Work
+
+If my projects, tutorials, or security research have helped you, please consider supporting future development.
+
+Your support helps fund:
+
+- Open source cybersecurity tools
+- Free educational content
+- YouTube tutorials
+- Linux and open-source projects
+- Security research
