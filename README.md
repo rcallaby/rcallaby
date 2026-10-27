@@ -24,9 +24,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcallaby&" alt="rcallaby" /></p>
 
 
-[![Richard Callaby's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rcallaby?cardType=level&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
-
-
 ### Blog Posts
 - [The Minnesota Model - What the digital fair repair act means for your home security](https://www.richardcallaby.com/the-minnesota-model-what-the-digital-fair-repair-act-means-for-your-home-network-security/)
 - [Zero Trust 101: Why Trust No One is the Only Cloud Strategy for 2025 and beyond](https://www.richardcallaby.com/zero-trust-101-why-trust-no-one-is-the-only-cloud-security-strategy-for-2025-and-beyond/)
